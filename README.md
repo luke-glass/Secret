@@ -5,6 +5,8 @@ Application that determines if Secret is an additive function secret(x+y) = secr
 Building the Application
 ------------------------
 
+Requires: Java 1.6+
+
 javac test/Secret.java
 javac test/TestSecret.java
 
