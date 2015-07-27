@@ -11,6 +11,6 @@ public class Secret
     
     public Integer calc(Integer input)
     {
-        return input;
+        return input*2;
     }
 }
