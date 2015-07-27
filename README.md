@@ -8,6 +8,7 @@ Building the Application
 Requires: Java 1.6+
 
 javac test/Secret.java
+
 javac test/TestSecret.java
 
 Running the Application
